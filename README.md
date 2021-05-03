@@ -1,5 +1,5 @@
 # StudentDatabase #
-# A student enrolment management system for the EECS department. The advanced concepts in C have been implemented such as an array of pointers, structures, a pointer to structures, dynamic memory allocation,  formatted IO and FILE IO, etc.
+A student enrolment management system for the EECS department. The advanced concepts in C have been implemented such as an array of pointers, structures, a pointer to structures, dynamic memory allocation,  formatted IO and FILE IO, etc.
 
 ## Features ##
 * Adding new record of student (by using malloc())
